@@ -10,7 +10,7 @@ Created by **Denis Novikov** as part of the *Interactive Villa* project.
 
 ### 🔗 Public pages
 
-- [Privacy Policy](https://gormonboza.github.io/personal-ai-assistant-google-calendar-interactive-villa-policy/)
+- [Privacy Policy](https://gormonboza.github.io/personal-ai-assistant-google-calendar-interactive-villa-policy/privacy_policy.html)
 - [Terms of Service](https://gormonboza.github.io/personal-ai-assistant-google-calendar-interactive-villa-policy/terms_of_service.html)
 
 These documents are required for OAuth verification by Google.
