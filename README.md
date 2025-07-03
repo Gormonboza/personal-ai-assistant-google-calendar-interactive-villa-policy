@@ -2,7 +2,7 @@
 
 This repository contains the official **Privacy Policy** and **Terms of Service** for the application:
 
-> **Personal AI Assistant for Google Calendar — for guests of the interactive villa**
+> **Personal AI Assistant for Google Calendar — for guests of the Interactive Villa**
 
 Created by **Denis Novikov** as part of the *Interactive Villa* project.
 
