@@ -1,22 +1,20 @@
-# Privacy Policy & Terms — Personal AI Assistant for Google Calendar
+# Personal AI Assistant for Google Calendar
 
-This repository contains the official **Privacy Policy** and **Terms of Service** for the application:
+This app allows users to interact with their Google Calendar using voice commands in English, Russian, or Indonesian.
 
-> **Personal AI Assistant for Google Calendar — for guests of the Interactive Villa**
+## 🔐 Features
 
-Created by **Denis Novikov** as part of the *Interactive Villa* project.
+- Secure Google OAuth 2.0 login
+- Access to `calendar.events` scope
+- Multilingual voice commands
+- Step-by-step confirmation before creating events
+- Offline and privacy-first architecture
 
----
+## 📺 Demo Video
 
-### 🔗 Public pages
+[![Demo Video](https://img.youtube.com/vi/hLkLAp8mais/0.jpg)](https://youtu.be/hLkLAp8mais)
+
+## 📄 Required Docs
 
 - [Privacy Policy](https://gormonboza.github.io/personal-ai-assistant-google-calendar-interactive-villa-policy/privacy_policy.html)
 - [Terms of Service](https://gormonboza.github.io/personal-ai-assistant-google-calendar-interactive-villa-policy/terms_of_service.html)
-
-These documents are required for OAuth verification by Google.
-
----
-
-### ⚙️ Hosting
-
-This site is served via **GitHub Pages** from the `main` branch of this repository.
